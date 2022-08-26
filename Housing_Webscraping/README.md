@@ -1,6 +1,6 @@
 # Housing_Webscraping
 
-# TODO list:-
+## TODO list:-
 
 - We will be using tools (Python, Pandas, Beautiful Soup, Requests)
 - use requests to downlaod the page
@@ -8,7 +8,7 @@
 - convert to a Pandas dataframe
 
 
-# Here are the steps we'll follow
+## Here are the steps we'll follow
 
 - We are going to scrap real estate agencies website "www.pararius.com/apartments".
 - From this website we will scrap 10 pages data you can scrap as much as you want by mentioning range
@@ -22,13 +22,3 @@
     6. page_no <br>
     </b>
 - Lastly we will convert or data to csv file
-
-Webscraping using Python BeautifulSoup Library to scrap data from rental agency website.
-It will contain data related to 
-* real estate brokers
-* property management companies
-* location
-* pricing per month
-* area sq.m
-* apartment website
-
